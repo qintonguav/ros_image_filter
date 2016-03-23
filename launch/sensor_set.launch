@@ -1,6 +1,6 @@
 <launch>
     <include file="$(find djiros)/launch/djiros.launch" />
-    <include file="$(find bluefox2)/launch/stereo_node.launch" />
-    <include file="$(find ros_image_filter)/launch/live.launch" />
+    <!--include file="$(find bluefox2)/launch/stereo_node.launch" /-->
+    <!--include file="$(find ros_image_filter)/launch/live.launch" /-->
 
 </launch>
